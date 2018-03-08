@@ -18,7 +18,14 @@ EtymoList = {
   'pater':['father','compatriot','patriarch','patricide','paternoster'],
 
   'chronos':['time','chronology','anachronism','diachronic','synchronous','asynchronous'],
+   
+  'arctos':['north','Arctic','Antarctic'],
+  'aster':['star','astronomy','astrology','astromancy','astronaut','asterisk','asteroid','disaster'],
+  'stella':['star','constellation','stellar'],
+  'nomos':['law','economy','autonomy','gastronomy'],
+
   
+
 
 
 

@@ -23,8 +23,15 @@ EtymoList = {
   'aster':['star','astronomy','astrology','astromancy','astronaut','asterisk','asteroid','disaster'],
   'stella':['star','constellation','stellar'],
   'nomos':['law','economy','autonomy','gastronomy'],
+  'zoe':['zodiac','zoology','zoo','phanerozoic','paleozoic','mesozoic','cenozoic'],
+
+  'galact':['milk','galaxy'],
+  'lact':['milk','lactose'],
 
   
+  
+
+
 
 
 

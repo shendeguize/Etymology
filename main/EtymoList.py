@@ -28,7 +28,11 @@ EtymoList = {
   'galact':['milk','galaxy'],
   'lact':['milk','lactose'],
 
+  'terra':['earth','Mediterranean','inter','disinter','subterrane','territory'],
+  'ge':['earth','geometry','geography','geology'],
   
+
+
   
 
 

@@ -30,6 +30,20 @@ EtymoList = {
 
   'terra':['earth','Mediterranean','inter','disinter','subterrane','territory'],
   'ge':['earth','geometry','geography','geology'],
+
+  'phot':['light','photograph','photon','photosphere','photogen','photosynthesis','phosphorus'],
+
+  'phobos':['afraid','hydrophobia','acrophobia','panophobia'],
+
+  'io':['wander','ion','ionosphere','ionogen'],
+  'ops':['eye','autopsy','myopia','hyperopia','xanthopia','optics','optician'],
+  'aqua':['water','aquarium','aqueduct','aquifer','aquacada','aqualung','aquanaut','aquaculture'],
+  'medea':['meditation','mathematics'],
+  'calos':['beautiful','calligraphy','calisthenics','kaleidoscope'],
+
+  
+
+
   
 
 

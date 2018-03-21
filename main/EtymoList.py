@@ -40,7 +40,11 @@ EtymoList = {
   'aqua':['water','aquarium','aqueduct','aquifer','aquacada','aqualung','aquanaut','aquaculture'],
   'medea':['meditation','mathematics'],
   'calos':['beautiful','calligraphy','calisthenics','kaleidoscope'],
-
+  'muse':['art','music','museum'],
+  'aoide'['tragedy','comedy','odeon','prosody','threnody','rhapsody','ode'],
+  'mneme':['memory','mnemonics','amnesty','amnesia','promnesia'],
+  'ment':['mind','mentation','mental','mention','monitor','reminiscence','remember','comment','dementia','remind'],
+  
   
 
 

@@ -44,7 +44,17 @@ EtymoList = {
   'aoide'['tragedy','comedy','odeon','prosody','threnody','rhapsody','ode'],
   'mneme':['memory','mnemonics','amnesty','amnesia','promnesia'],
   'ment':['mind','mentation','mental','mention','monitor','reminiscence','remember','comment','dementia','remind'],
-  
+  'eros':['love','erotic','reotica','eroticism','erotomaniac','erotogenesis','erotology'],
+  'uranos':['sky','uranography','uranology','uranometry','uranolite','uranophobia'],
+  'choros':['choir','chorister','chorus','choral','carol','chorea','choregraphy'],
+  'eu':['good','euthanasia','eulogy','eudemonia','eugenics','euphony','euphemism','euphoria','eukaryote','eucalypytus'],
+  'polys':['many','polunomial','polypoly'],
+  'melos':['limbs','melody','melisma','melodrama'],
+  'hora':['time','hour','horal','horography','horologe','horoscope'],
+  'chloros':['green','chlorine','chlorophyll','cholesterol','cholecyst','choleric','choler','chelera'],
+  'ver':['spring','primavera','verdure','verdant','vernal','verdigris'],
+  'auxo':['grow','auxin','auxiliary','auxesis','auxology','auxocyte','augment','August','auction','author'],
+  'carpos':['fruit','excerpt','acarpous'],
   
 
 

@@ -55,7 +55,31 @@ EtymoList = {
   'ver':['spring','primavera','verdure','verdant','vernal','verdigris'],
   'auxo':['grow','auxin','auxiliary','auxesis','auxology','auxocyte','augment','August','auction','author'],
   'carpos':['fruit','excerpt','acarpous'],
-  
+  'thesis':['make','hypothesis','synthesis','photosynthesis','theme','thematic','theme','thematic'],
+  'poeo':['make','poem','pathopoiesis','poet'],
+  'eirene':['peace','irenic','irenicon'],
+  'carus':['care','caress','charity','cherish'],
+  'carta':['card','cartoon','carte','chart','charter','cartel','uncharted'],
+  'carrus':['car','cargo','carriage','carry','career','chariot','charge','surcharge','discharge'],
+  'calx':['stone','chalk','calcium','calcify','calcimine','calculus','calculate'],
+  'caput':['head','caput','captain','chief','cape','cabbage','bieceps','triceps','decapitate','capital'],
+  'phren':['mind','phrenic','phrenetic','frantic','schizophrenia'],
+  'pant':['all','Pandora','panacea','pancreas','panorama','panoply'],
+  'theos':['god','theology','atheism','thoecracy'],
+  'cyclos':['circle','cycle','bicycle','tricycle','unicycle','recycle','tetrecycline','cyclamen','cyclone'],
+  'hecaton':['hundred','hectare','hecatomb'],
+  'centum':['hundred','century','percent','centipede'],
+  'potamos':['river','hippopotamus','potamology','Mesopotamia'],
+  'tineo':['hold','continent'],
+  'helios':['sun','helianthus','heliocentric','perihelion','aphelion','helium','heliosis','heliotherapy','heliozoa','heliolatry'],
+  'selene':['moon','selenium','selenology','selenodesy','selenodont'],
+  'mene':['moon','semester','trimester','mensis','menstruation','amenia','menostasia'],
+  'hyper':['over','hyperactive','hypertension','hypertext','hypersensitive','hyperopia'],
+  'pro':['before','problem','Procyon','prophet','provoke','propose','proceed','proclaim','produce','profess','program','progress','promise','promote','propel','prostate','protract','prospect','ptotect'],
+  'epi':['upon','epidemic','epicenter','epidermis','epigram','epiphyte'],
+  'dora':['donate','donor','donee','pardon','condone'],
+  'tlenai':['bear','extol','talent','thole','tolerance'],
+
 
 
   

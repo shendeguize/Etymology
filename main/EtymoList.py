@@ -66,7 +66,22 @@ EtymoList = {
   'epi':['upon','epidemic','epicenter','epidermis','epigram','epiphyte'],
   'dora':['donate','donor','donee','pardon','condone'],
   'tlenai':['bear','extol','talent','thole','tolerance'],
-
+  'cartos':['manage','democracy','aristocracy','bureaucracy','hierocracy','theocracy','plutocracy','nomocracy','gerontocracy'],
+  'lethe':['forget','lethargy','lethal'],
+  'caio':['burn','causalgia','encaustic','atmocausis','casustic']
+  'phaos':['light','phenomenon','phantasm','phantom','fantasy','fancy','phanerosis','phenol','fenestra','phase','phosphorus'],
+  'rheo':['river','rheology','logorrhea','rheum'],
+  'rivus':['rivulet','rival','derive'],
+  'servo':['save','conserve','consevator','conservative','observe','obsevatory','preserve','preservation','reserve','reservoir'],
+  'juvenis':['young','juvenile'],
+  'moneo':['remind','monitor','monument','admonish','summon','money'],
+  'curr':['run','cursory','cursive','cursor','precursor','courser','course','concourse','discourse','recourse','curriculum','corsair','current','courier','corridor','occur','recur','concur'],
+  'mater':['mother','maternal','matriarch','matricide','maronymic','matron','matrimony','alma mater','metropolitan','metro','material','matter','matrix','metralgia'],
+  'cre':['grow','crescent','decreascent,','increase','decrease','recruit'],
+  'eido':['see','eidos','eidolon','idol','idolatry','kaleidoscopic','idea'],
+  'vid':['see','video','evidence','providence','invidious','vide','vision','visual','visible','ivisible','visage','previse','visit','advise','revise','revision','provide','supervise','deivise','view','preview','review','interview','survey','envy'],
+  'sede':['seat','sit','preside','president','reside','resident','settle','insidious','assiduous',',sedentary','sedate','dissident','supersede','sederunt','sediment','assess','catherdral'],
+  
 
 
   

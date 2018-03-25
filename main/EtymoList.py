@@ -121,7 +121,13 @@ EtymoList = {
   'nebula':['cloud','nebula','nebulous','nebulizer','nimbus'],
   'cupid':['want','cupidity','concupiscence','covet'],
   'psyche':['mind','psychology','psychiatry','psychopathy','psychoanalysis','psychoneurosis','psychedelic','psychism','psychogenesis','psychosis','psycho'],
-  
+  'pous':['foot','octopus','polypus','platypus'],
+  'eido':['see','eidetic','eidolon'],
+  'ambi':['around','ambition','amble','ambulance','ambassador','ambagious','ambient','ambiguous','ambivalence','ambivert'],
+  'cyane':['cyan','cyanosis','cyanite','cyanosis','Cyanogen','cyanide'],
+  'sao':['save','aoterocyte','autoterism','creosote'],
+  'salus':['save','salvation','salvage','salve','Salvador','salute'],
+  'pluvia':['rain','pluvial','impluvium','isopluvial','pluviometer']
 
 
   
